@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: d89f62f8539129443b283f4269939995
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 82act.bol0
+    100002: 82act.bol1
+    100004: 82act.bol2
+    100006: 82act.bolt
+    100008: 82actuato0
+    100010: 82actuato1
+    100012: 82actuato2
+    100014: 82actuator
+    100016: 82anchor.b
+    100018: 82body
+    100020: 82fuse
+    100022: 82fuse.hol
+    100024: 82hangers
+    100026: 82sliding.
+    100028: 82tube
+    100030: 82wing01
+    100032: 82wing02
+    100034: 82wing03
+    100036: 82wing04
+    100038: //RootNode
+    100040: Camera01
+    100042: Camera01.target
+    400000: 82act.bol0
+    400002: 82act.bol1
+    400004: 82act.bol2
+    400006: 82act.bolt
+    400008: 82actuato0
+    400010: 82actuato1
+    400012: 82actuato2
+    400014: 82actuator
+    400016: 82anchor.b
+    400018: 82body
+    400020: 82fuse
+    400022: 82fuse.hol
+    400024: 82hangers
+    400026: 82sliding.
+    400028: 82tube
+    400030: 82wing01
+    400032: 82wing02
+    400034: 82wing03
+    400036: 82wing04
+    400038: //RootNode
+    400040: Camera01
+    400042: Camera01.target
+    2100000: 82 Steel
+    2100002: 82 Aluminum
+    2100004: 82 Body
+    2100006: 82 Tail
+    2300000: 82act.bol0
+    2300002: 82act.bol1
+    2300004: 82act.bol2
+    2300006: 82act.bolt
+    2300008: 82actuato0
+    2300010: 82actuato1
+    2300012: 82actuato2
+    2300014: 82actuator
+    2300016: 82anchor.b
+    2300018: 82body
+    2300020: 82fuse
+    2300022: 82fuse.hol
+    2300024: 82hangers
+    2300026: 82sliding.
+    2300028: 82tube
+    2300030: 82wing01
+    2300032: 82wing02
+    2300034: 82wing03
+    2300036: 82wing04
+    3300000: 82act.bol0
+    3300002: 82act.bol1
+    3300004: 82act.bol2
+    3300006: 82act.bolt
+    3300008: 82actuato0
+    3300010: 82actuato1
+    3300012: 82actuato2
+    3300014: 82actuator
+    3300016: 82anchor.b
+    3300018: 82body
+    3300020: 82fuse
+    3300022: 82fuse.hol
+    3300024: 82hangers
+    3300026: 82sliding.
+    3300028: 82tube
+    3300030: 82wing01
+    3300032: 82wing02
+    3300034: 82wing03
+    3300036: 82wing04
+    4300000: 82hangers
+    4300002: 82tube
+    4300004: 82body
+    4300006: 82fuse.hol
+    4300008: 82fuse
+    4300010: 82wing03
+    4300012: 82anchor.b
+    4300014: 82sliding.
+    4300016: 82actuator
+    4300018: 82act.bolt
+    4300020: 82wing01
+    4300022: 82actuato0
+    4300024: 82act.bol0
+    4300026: 82actuato1
+    4300028: 82act.bol1
+    4300030: 82wing02
+    4300032: 82actuato2
+    4300034: 82act.bol2
+    4300036: 82wing04
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

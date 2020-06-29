@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - BulletEnemy
+  - BulletPlayer
+  - Bullet
+  - Obstacles
+  - PlayerOnline
+  - Planet
+  - PlayerPlace
+  - PlayerOnline1
+  - PlayerOnline2
+  - BulletPlayerOnline
+  - BulletPlayerOnline1
+  - Network
+  - HealFill
+  - PlayFab
+  - Room
+  - PlayerAR
+  - EnemyAR
+  - BulletPlayerAR
+  - BulletEnemyAR
+  - HealFill2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Player
+  - BulletPlayer
+  - Enemy
+  - BulletEnemy
+  - PlayerOnline
+  - PlayerOnline1
+  - PlayerOnline2
+  - BulletPlayerOnline
+  - BulletPlayerOnline1
+  - Planet
+  - PlayerAR
+  - EnemyAR
+  - BulletPlayerAR
+  - BulletEnemyAR
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
